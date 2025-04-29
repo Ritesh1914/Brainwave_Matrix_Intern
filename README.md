@@ -12,6 +12,6 @@ A basic web application for collecting and viewing user feedback. Built with Nod
 
 ### Run Locally with Docker
 ```bash
-git clone https://github.com/Ritesh1914/simple-feedback-app.git
+git clone https://github.com/Ritesh1914/Brainwave_Matrix_Intern/simple-feedback-app.git
 cd simple-feedback-app
 docker-compose up --build
